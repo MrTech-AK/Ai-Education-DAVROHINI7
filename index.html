@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI IN EDUCATION</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&family=Montserrat:wght@700&family=Audiowide:wght@700&family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="preloader-content">
+            <div class="book">
+                <div class="cover"></div>
+                <div class="page"></div>
+            </div>
+            <p>Preparing for Excellence...</p>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div class="progress-text" id="progress-text">1%</div>
+        </div>
+    </div>
+
+    <div id="login-container" class="hidden">
+        <h1 class="logo">DAV PUBLIC SCHOOL</h1>
+        <h2>Secure Access to Class Videos</h2>
+        <input type="password" id="password" placeholder="Enter Password">
+        <button onclick="checkPassword()">Unlock</button>
+        <p id="error-message"></p>
+    </div>
+
+    <div id="content-container" class="hidden">
+        <header>
+            <h1>Welcome to DAV  PS's Video Portal</h1>
+            <p>Select your Subject to view the available videos</p>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-link active" onclick="openTab(event, 'ai')">Class 9</button>
+            <button class="tab-link" onclick="openTab(event, 'science')">Class 10</button>
+            <button class="tab-link" onclick="openTab(event, 'sst')">Class 11</button>
+            <button class="tab-link" onclick="openTab(event, 'maths')">Class 12</button>
+        </nav>
+
+        <div id="ai" class="tab-content">
+            <h2>Artificial Intelligence</h2>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1"></iframe>
+            <h5>Video Title Here</h5>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2"></iframe>
+            <h5>Video Title Here</h5>
+        </div>
+
+        <div id="science" class="tab-content hidden">
+            <h2>Science</h2>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1"></iframe>
+            <h5>Video Title Here</h5>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2"></iframe>
+            <h5>Video Title Here</h5>
+        </div>
+
+        <div id="sst" class="tab-content hidden">
+            <h2>Social Science</h2>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1"></iframe>
+            <h5>Video Title Here</h5>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2"></iframe>
+            <h5>Video Title Here</h5>
+        </div>
+
+        <div id="maths" class="tab-content hidden">
+            <h2>Mathematics</h2>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1"></iframe>
+            <h5>Video Title Here</h5>
+            <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2"></iframe>
+            <h5>Video Title Here</h5>
+        </div>
+    </div>
+
+    <footer>
+        <p>DAV ROHINI</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
