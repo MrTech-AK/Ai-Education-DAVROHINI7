@@ -3,7 +3,21 @@
 Welcome to our **Password Protected Interactive Website**, designed to assist students in revising important chapter concepts. This tool focuses on providing short, detailed video explanations that students can access for quick, effective exam preparation.
 
 ---
+---
 
+## 🧑‍🤝‍🧑 Participants
+
+> **Akshat Kumar**
+---
+> **Apoorv Sharma**
+
+### 📚 Class:
+- 10
+
+### 🏫 School:
+- DAV Public School, Sector 7, Rohini, Delhi
+
+---
 ## 🌟 Project Overview
 
 This website is a **password-protected platform** specifically created to help students revise key concepts during exam preparations. It features:
@@ -45,22 +59,6 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 
 Check out the website here:  
 **[Visit the Website](https://ai-in-education-by-dav7.netlify.app/)**
-
----
-
-## 🧑‍🤝‍🧑 Participants
-
-> **Akshat Kumar**
----
-> **Apoorv Sharma**
-
-### 📚 Class:
-- 10
-
-### 🏫 School:
-- DAV Public School, Sector 7, Rohini, Delhi
-
----
 
 
 ---
