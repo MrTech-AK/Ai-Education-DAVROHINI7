@@ -44,7 +44,8 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 - **HTML, CSS, JavaScript**: Core technologies used to build and style the website.
 - **Responsive Design**: Ensures the website is user-friendly across various devices.
 - **CSS Animations**: Used to provide smooth transitions and enhance the overall aesthetic of the site.
-
+- **Github**: Github is a platform using which anyone can create a repository and save their code files In it.
+- **Netlify**: Netlify is a platform which helped us deploy the Website.
 ---
 
 ## 🎓 How to Use
