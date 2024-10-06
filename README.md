@@ -13,7 +13,7 @@ Welcome to our **Password Protected Interactive Website**, designed to assist st
 </div>  
  <div align="left">
 
-[![Site](https://img.shields.io/badge/Patricipant-Apoorv_Sharma-00bfff?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+[![Site](https://img.shields.io/badge/Patricipant-Apoorv_Sharma-00bfff?style=for-the-badge)](https://ai-in-education-by-dav7.netlify.app/)
 
 </div>
 
