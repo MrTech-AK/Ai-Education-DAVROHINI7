@@ -23,8 +23,11 @@ Welcome to our **Password Protected Interactive Website**, designed to assist st
 
 </div>
 
-## 🏫 School:
-- DAV Public School, Sector 7, Rohini, Delhi
+ <div align="left">
+
+[![Site](https://img.shields.io/badge/School-DAV_Public_School-00bfff?style=for-the-badge)](https://ai-in-education-by-dav7.netlify.app/)
+
+</div>
 
 ---
 
