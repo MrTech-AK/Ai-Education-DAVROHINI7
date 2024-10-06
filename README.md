@@ -1,24 +1,34 @@
-# 🎓 NextGen EduTech Project: AI in Education
+<h1 align="center">🎓 NextGen EduTech Project: AI in Education</h1>
 
 Welcome to our **Password Protected Interactive Website**, designed to assist students in revising important chapter concepts. This tool focuses on providing short, detailed video explanations that students can access for quick, effective exam preparation.
 
 ---
----
 
-## 🧑‍🤝‍🧑 Participants
+<h2 align="center">Participant Information</h2>
 
-> **Akshat Kumar**
----
-> **Apoorv Sharma**
+> <div align="left">
 
-### 📚 Class:
-- 10
+[![Site](https://img.shields.io/badge/Participant-Akshat_Kumar-00bfff?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
 
-### 🏫 School:
+</div>  
+ <div align="left">
+
+[![Site](https://img.shields.io/badge/Patricipant-Apoorv_Sharma-00bfff?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+
+</div>
+
+<div align="left">
+
+[![Site](https://img.shields.io/badge/Class-10th-ff4500?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+
+</div>
+
+## 🏫 School:
 - DAV Public School, Sector 7, Rohini, Delhi
 
 ---
-## 🌟 Project Overview
+
+<h2 align="center">🌟 Project Overview</h2>
 
 This website is a **password-protected platform** specifically created to help students revise key concepts during exam preparations. It features:
 - **Video Explanations**: Short, precise explanations of crucial topics.
@@ -30,7 +40,7 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 
 ---
 
-## 🔑 Key Features
+<h2 align="center">🔑 Key Features</h2>
 
 - **🔒 Password Protection**: Only authorized users (students) can log in.
 - **📚 Organized by Class & Chapter**: Navigate easily to find relevant content by selecting your class and subject.
@@ -39,16 +49,17 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 
 ---
 
-## 💻 Technologies Used
+<h2 align="center">💻 Technologies Used</h2>
 
 - **HTML, CSS, JavaScript**: Core technologies used to build and style the website.
 - **Responsive Design**: Ensures the website is user-friendly across various devices.
 - **CSS Animations**: Used to provide smooth transitions and enhance the overall aesthetic of the site.
-- **Github**: Github is a platform using which anyone can create a repository and save their code files In it.
-- **Netlify**: Netlify is a platform which helped us deploy the Website.
+- **GitHub**: GitHub is a platform using which anyone can create a repository and save their code files in it.
+- **Netlify**: Netlify is a platform that helped us deploy the website.
+
 ---
 
-## 🎓 How to Use
+<h2 align="center">🎓 How to Use</h2>
 
 1. **Login**: Access the website by entering your assigned password.
 2. **Select Class & Subject**: Navigate through the organized interface to find your class and chapter.
@@ -56,17 +67,18 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 
 ---
 
-## 🔗 Website Link
+<h2 align="center">🔗 Website Link</h2>
 
-Check out the website here:  
-**[Visit the Website](https://ai-in-education-by-dav7.netlify.app/)**
+<div align="center">
 
+[![Site](https://img.shields.io/badge/View_site-AI_IN_EDUCATION-2ea44f?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+
+</div>
 
 ---
 
-## ⚖️ License
-```
-MIT License
+<h2 align="center">⚖️ License</h2>
+<h3 align="center">MIT License</h3>
 
 Copyright (c) 2024 Akshat
 
@@ -87,4 +99,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
