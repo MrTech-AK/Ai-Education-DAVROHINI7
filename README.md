@@ -19,7 +19,7 @@ Welcome to our **Password Protected Interactive Website**, designed to assist st
 
 <div align="left">
 
-[![Site](https://img.shields.io/badge/Class-10th-ff4500?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+[![Site](https://img.shields.io/badge/Class-10th-ff4500?style=for-the-badge)](https://ai-in-education-by-dav7.netlify.app/)
 
 </div>
 
@@ -71,7 +71,7 @@ To make exam revision efficient and hassle-free by offering quick access to esse
 
 <div align="center">
 
-[![Site](https://img.shields.io/badge/View_site-AI_IN_EDUCATION-2ea44f?style=for-the-badge)](https://https://ai-in-education-by-dav7.netlify.app/)
+[![Site](https://img.shields.io/badge/View_site-AI_IN_EDUCATION-2ea44f?style=for-the-badge)](https://ai-in-education-by-dav7.netlify.app/)
 
 </div>
 
